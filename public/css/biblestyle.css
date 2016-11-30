@@ -1,0 +1,315 @@
+
+.logheader {
+  color:white;
+  margin-top:5px;
+  text-align: center;
+  font-size: 84px;
+}
+.font-incr{
+  font-size:900%;
+}
+.font-incr1{
+  font-size:300%;
+}
+.font-decr{
+  font-size:50%;
+}
+.logheader-md {
+  color:white;
+  margin-top:5px;
+  text-align: center;
+  font-size: 62px;
+}
+.logheader-sm {
+  color:white;
+  margin-top:5px;
+  text-align: center;
+  font-size: 40px;
+}
+.logheader-xs {
+  color:white;
+  margin-top:5px;
+  text-align: center;
+  font-size: 24px;
+}
+.login-header {
+  text-shadow: 0px 5px 15px #000;
+  text-align:center;
+  vertical-align: center;
+  font-size: 40px;
+   color:white;
+   opacity:1;
+}
+.login-header-sm {
+  text-shadow: 0px 1px 1px #ffffff;
+  text-align:center;
+  vertical-align: center;
+  font-size: 26px;
+   color:#212121;
+   opacity:1;
+}
+.login-header-xs {
+  text-shadow: 0px 5px 15px #000;
+  text-align:center;
+  vertical-align: center;
+  font-size: 16px;
+   color:white;
+   opacity:1;
+}
+.imgask{
+margin-bottom:5px;
+margin-right:0px;
+width:100%;
+}
+.img-topic{
+   /*background-image: url(C:/Users/KUDWI2/Desktop/BOOTSTRAP/BIBLEAPPSITE/images/man_thinking1.jpg);*/
+   background-repeat: no-repeat;
+   background-blend-mode:screen;
+  background-size: 100%;
+  margin-top:0px;
+ margin-left:2px;
+ margin-bottom:6px;
+     margin-right:-50px;
+ -webkit-filter: grayscale(15%) ;
+  box-sizing: border-box;
+  width: 100%;
+     min-height:350px;
+     max-height:750px;
+     height:745px;
+     opacity:0.9;
+  }
+
+.img-expert{
+      background-blend-mode: lighten;
+     background-repeat: no-repeat;
+       margin-top:0px;
+  background-size: 100%;
+    margin-left:2px;
+    margin-right:-0px;
+ /* -webkit-filter: grayscale(75%) ;*/
+   box-sizing: border;
+     opacity:0.6;
+     width: 100%;
+     min-height:350px;
+     max-height:750px;
+     height:745px;
+}
+.img-read{
+ 
+     background-blend-mode: lighten;
+     background-repeat: no-repeat;
+       margin-top:0px;
+  background-size: 100%;
+    margin-left:2px;
+    margin-right:-0px;
+     background-color: #212121;
+}
+.img-index{
+width:300px;height:240px;
+}
+.img-index1{
+  width:100%;height:100%;
+}
+.prev-verse{
+  background-color:white;
+  margin-left:15px;
+  margin-right:15px;
+  margin-top:2.25%;
+  margin-bottom:2.25%;
+  height:70px;
+  font-family: 'Dosis', sans-serif bold;
+  padding-top:5px;
+  box-shadow: 0px 1px 1px #000;
+  padding-bottom:5px;
+}
+.img-text-center {
+    position: absolute;
+left:5%;
+    margin-top: 6%;
+    width:90%;
+    text-align: center;
+margin-bottom:0px;
+}
+.img-text-center1 {
+    position: absolute;
+left:5%;
+    margin-top: 6%;
+    width:90%;
+    text-align: center;
+margin-bottom:0px;
+}
+.img-text-right {
+    position: absolute;
+    right: 0;
+    margin-top: 5%;
+    width: 60%;
+    text-align: center;
+}
+.img-text-left {
+    position: absolute;
+    width: 40%;
+    text-align: center;left:15%;
+    }
+.img-padd {
+  padding:5px;
+  
+}
+.modal-header, .close {
+      background-color: white;
+      color:#00ACC1 !important;
+      text-align: center;
+      }
+  .modal-verse{
+    background-image: url(C:/Users/KUDWI2/Desktop/BOOTSTRAP/BIBLEAPPSITE/images/daily/cycling_silhoute.png);
+background-size: 100% 100%;
+height:400px;
+background-repeat: no-repeat;
+      }
+  .modal-footer {
+      background-color:#f9f9f9;
+  }
+
+  #ask_question{ /*modal for asking question*/
+top:70%;
+left:0;
+outline: none;
+}
+ .search-input {
+    margin: 10px 10px 10px;
+    height: 35px;
+    width: 200px;
+     vertical-align:bottom;
+   color: #212121;
+}   
+.clearfix{
+  zoom:1;
+}
+.list_expert{
+ /*background-color:rgba(150,150,150,0);*/
+ background-color:transparent;
+  border-color:transparent;
+  border-bottom-color: white;
+  vertical-align: center;
+  text-align:left;
+}
+.list_exp_link{
+
+    text-decoration:none;
+     text-align: center;
+     color:white;
+}
+.list-topic-link
+{
+     background-color:rgba(150,150,150,0);
+}
+.list_expert:hover{
+  opacity:0.4;background-color:transparent; color:white;
+    text-decoration:none;
+}
+.cursivefont{
+color: #212121; /*font-family: 'Dancing Script', cursive;  */
+ font-family: 'Cairo', sans-serif; font-size:18px;
+
+}
+.list-a{
+text-align: center;
+}
+.bodybg{  
+background-color: white;
+/*background-image:linear-gradient(to right, white 0%,black 50%, white 100%), url(C:/Users/KUDWI2/Desktop/BOOTSTRAP/BIBLEAPPSITE/images/wooden1.jpg);
+background-attachment: fixed;background-blend-mode: overlay;*/
+}
+
+img:hover{
+  opacity:1;
+}
+.clr-blue{
+ background-color: rgba(0, 191, 255,0.5); /*beautiful blue*/
+}
+.clr-pink{
+ background-color: rgba(250, 1, 156,0.5); /*deep pink*/
+ }
+ .clr-yellow{
+ background-color: rgba(255, 255,1,0.5); /*bright yellow*/
+ }
+ .clr-green
+ {
+    background-color: rgba(5, 200,200,0.5); /*sea green;*/
+ }
+ .clr-gray{
+     background-color: rgba(150,150,150,0.5); /*light gray;*/
+ }
+ .clr-violet{
+     background-color:rgba(148, 0, 211,0.5); /*dark violet;*/
+ }
+  .clr-brown{
+   background-color:rgba(180,120,100,0.4); /*light brown*/
+ }
+ .clr-white{
+ background-color:rgba(255,255,255,1); /*light brown*/
+ }
+
+ .clr-mustard{
+   background-color: rgba(211, 162, 84,0.5); /*light mustard*/
+ }
+.clr-red{
+ background-color: rgba(255, 0, 0,0.5); /*red*/
+ }
+/*Media Querie*/
+
+@media only screen and (min-width: 150px) and (max-width: 530px) {
+   .logheader {
+  color:white;
+  margin-top:0px;
+  text-align: center;
+  font-size: 50%;
+}
+.img-text-center {
+    position: absolute;
+    left: 0;
+    top: 70%;
+    width: 25%;
+    text-align: center;
+
+}
+.img-topic{
+   /*background-image: url(C:/Users/KUDWI2/Desktop/BOOTSTRAP/BIBLEAPPSITE/images/man_thinking1_xs.jpg);*/
+   background-repeat: no-repeat;
+   background-blend-mode:screen;
+  background-size: 100%;
+  margin-top:0px;
+ margin-left:2px;
+ margin-bottom:6px;
+     margin-right:-10px;
+  background-color: white;
+ /*-webkit-filter: grayscale(45%) ;*/
+  }
+.img-text-right {
+    position: fixed;
+    left: 0;
+    margin-top:-350px;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    margin-right:5px;
+box-sizing: border-box;
+}
+#div_ask_text {
+ margin-top:4px;
+    width: 100%;
+    font-size:16px;
+    margin-left:15px;
+}
+.imgask{
+  min-height:310px;
+  width:100%;
+}
+.imgheader{
+min-height:340px;
+width:600px;
+max-width:700px;
+}
+.img-padd{
+  padding:2px;
+}
+}

@@ -1,0 +1,89 @@
+.media{
+  height:350px;
+  width:auto;
+  margin:10px;    background-color: rgba(50,15,15,0.5);
+}
+.media-para{
+ height:auto;
+ width:auto;
+background-color:rgba(50,15,15,0.5);
+
+}
+.media-heading{
+  font-family:Copperplate Gothic; font-style:bold; 
+  color:rgb(240, 250, 133);
+   font-size: 20px;
+   
+}
+.media-bg{
+ /* background-color:rgba(150,150,150,0.6137254901960784);*/
+  height:auto;
+}
+.img-thumb-media{
+ width:120px;
+  height:120px;
+  margin-left: 20px;
+  margin-right:20px;
+    margin-top: 20px;
+    margin-bottom:0px;
+opacity:0.9;
+}
+.img-thumbnail{
+     border-color:transparent;
+}
+.media-text{
+  color:white;
+  margin:5px;
+  font-size:16px;
+}
+.img1{
+  background-image:url(C:/Users/KUDWI2/Desktop/BOOTSTRAP/BIBLEAPPSITE/images/thumbnail/worship2.jpg);
+}
+.img2{
+  background-image:url(C:/Users/KUDWI2/Desktop/BOOTSTRAP/BIBLEAPPSITE/images/thumbnail/faith2.jpg);
+}
+.img3{
+  background-image:url(C:/Users/KUDWI2/Desktop/BOOTSTRAP/BIBLEAPPSITE/images/thumbnail/anger1.jpg);
+}
+.img4{
+  background-image:url(C:/Users/KUDWI2/Desktop/BOOTSTRAP/BIBLEAPPSITE/images/thumbnail/rapture2.jpg);
+ 
+}
+.img5{
+  background-image:url(C:/Users/KUDWI2/Desktop/BOOTSTRAP/BIBLEAPPSITE/images/thumbnail/hell.jpg);
+}
+.img6{
+  background-image:url(C:/Users/KUDWI2/Desktop/BOOTSTRAP/BIBLEAPPSITE/images/thumbnail/drug.jpg);
+}
+.img7{
+  background-image:url(C:/Users/KUDWI2/Desktop/BOOTSTRAP/BIBLEAPPSITE/images/thumbnail/Evolution.jpg);
+}
+.img8{
+  background-image:url(C:/Users/KUDWI2/Desktop/BOOTSTRAP/BIBLEAPPSITE/images/thumbnail/prayer.jpg);
+  }
+
+.img1:hover,.img:hover{
+  opacity:0.2;
+}
+@media only screen and (min-width: 150px) and (max-width: 530px) {
+
+.img-thumb-media{
+ width:55px;
+  height:55px;
+  margin-left: 10px;
+  margin-right:10px;
+    margin-top: 10px;
+    margin-bottom:10px;
+   border: 0px;
+opacity:0.9;
+}
+.media-heading{
+  font-family:Copperplate Gothic; font-style:bold; color:white; font-size: 10px;
+}
+.media-text{
+  color:white;
+  margin:5px;
+  font-size:10px;
+}
+
+}
